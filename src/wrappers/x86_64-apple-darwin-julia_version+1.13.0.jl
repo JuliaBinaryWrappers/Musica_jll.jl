@@ -11,13 +11,13 @@ function __init__()
     JLLWrappers.@generate_init_header(libcxxwrap_julia_jll)
     JLLWrappers.@init_library_product(
         libmechanism_configuration,
-        "lib/libmechanism_configuration.1.1.1.dylib",
+        "lib/libmechanism_configuration.1.1.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libmusica,
-        "lib/libmusica.0.14.5.dylib",
+        "lib/libmusica.0.15.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
