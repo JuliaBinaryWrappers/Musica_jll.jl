@@ -3,7 +3,7 @@ export libmechanism_configuration, libmusica, libmusica_julia, libyaml_cpp
 
 using libcxxwrap_julia_jll
 JLLWrappers.@generate_wrapper_header("Musica")
-JLLWrappers.@declare_library_product(libmechanism_configuration, "@rpath/libmechanism_configuration.1.dylib")
+JLLWrappers.@declare_library_product(libmechanism_configuration, "@rpath/libmechanism_configuration.2.dylib")
 JLLWrappers.@declare_library_product(libmusica, "@rpath/libmusica.0.dylib")
 JLLWrappers.@declare_library_product(libmusica_julia, "@rpath/libmusica_julia.dylib")
 JLLWrappers.@declare_library_product(libyaml_cpp, "@rpath/libyaml-cpp.0.8.dylib")
@@ -11,13 +11,13 @@ function __init__()
     JLLWrappers.@generate_init_header(libcxxwrap_julia_jll)
     JLLWrappers.@init_library_product(
         libmechanism_configuration,
-        "lib/libmechanism_configuration.1.1.2.dylib",
+        "lib/libmechanism_configuration.2.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libmusica,
-        "lib/libmusica.0.15.0.dylib",
+        "lib/libmusica.0.16.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

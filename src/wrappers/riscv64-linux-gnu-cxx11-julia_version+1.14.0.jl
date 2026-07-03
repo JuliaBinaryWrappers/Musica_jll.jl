@@ -3,7 +3,7 @@ export libmechanism_configuration, libmusica, libmusica_julia, libyaml_cpp
 
 using libcxxwrap_julia_jll
 JLLWrappers.@generate_wrapper_header("Musica")
-JLLWrappers.@declare_library_product(libmechanism_configuration, "libmechanism_configuration.so.1")
+JLLWrappers.@declare_library_product(libmechanism_configuration, "libmechanism_configuration.so.2")
 JLLWrappers.@declare_library_product(libmusica, "libmusica.so.0")
 JLLWrappers.@declare_library_product(libmusica_julia, "libmusica_julia.so")
 JLLWrappers.@declare_library_product(libyaml_cpp, "libyaml-cpp.so.0.8")

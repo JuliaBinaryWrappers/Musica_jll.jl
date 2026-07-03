@@ -1,614 +1,614 @@
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "78b33847330673b7c02081218c47d2d2db05c493"
+git-tree-sha1 = "1afb1fea70a84dff5f97bdeb83777188a3c89f4c"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "bdb075a6da3f0276b798c8192d3bb4dd3e9351caa1cbe22c8e1d1824055d82cb"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "f1364ac59f5a888561908a05d551fa0166f9a1051351702a73852fa85b73a1bc"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "a14c4c4a89e44aeea235f065db48b566e569f1e7"
+git-tree-sha1 = "b5f9edcc5ab30d5cd2fe4bfc2bab24ef17ed4688"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "6b103ddce1b0d3f00d6ca1db6cfb8bedf9ce9cbc93b15f072447bb66b97e0bfa"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "5e1b2da78caeaa68535ebc36b9afb9cf14ffe5e5fa88bc6ace00f648304afd12"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "db05b2f553f099c1a317442b3d6d8bce1930da80"
+git-tree-sha1 = "5e8d35427138d79383d2bca54836dda2302a3259"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "c930869169643340552e5dad2fe259caeafd7d2598acd8771f6a376d50fe1118"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "5030e332cff8b4253b7abc1e29b0645b041a3a16a6952652e1d8f27ee229b878"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "11fd77e7967878789f2a234895d275d5411293f6"
+git-tree-sha1 = "aa9cead55c10bf9052ec775b1dc6dd363ce1cfa3"
 julia_version = "1.13.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "2619d16e40ce04493d5bf73635476c3e6f9206ecf227b766141b36756e4d1864"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "8118a5d95a5d01ec1907b582eec96e4997e48ee7c287c5eb725d9e42b52ac32e"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "3cd902cbcfc385f77b2c4c9f0f659ea946bdec9c"
+git-tree-sha1 = "3f9cf648e57ffdf6b40a3d5e55709be2d5bf9c1b"
 julia_version = "1.14.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "bed3a465667a6b409752df4bcb3829dd23059c88a43b5aa50d0bc9dfa14c71ba"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "a1f74f54e4f452d5b45b69db13bce2d5b4a1ff90e982c5e024d4aa52a291a2d5"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eede2cf041c806791f7918c69892f18f39a7b5a7"
+git-tree-sha1 = "97c53bd140cfc88cae7233341eba0d5131fda6f5"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "4df5dc2b8aff934c529c7d2585f12ca6e740fa5158c0cfd4b2ec072b369a0bfe"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "96ac5aa5a7cae7a2d4db08b20e1212aa935743e53a7136c326c6fa744d508dde"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9adf711975029102e8e1ad0dfbb04eae346bb2e"
+git-tree-sha1 = "979ec91260ded8f8eaa70b3f1b30a23e5523c8f3"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "2b77973a8b07ad277b24475ee5a12e2202d91b8e85318d48a92f218f8208f18a"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "1dc86bae2b52d6b0c2b292047fdf36a7d643e52309f98521bffe6003b2be61f4"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "535032f65e2ccb74817174f56283ff45e91a03ad"
+git-tree-sha1 = "6317adc9a734dc60cb89ce8268a1bb26310573ed"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "5aee4825a6da856e9168a2098cb4aa40fb44d1b98384fe361619f0eb1972e1c5"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "c40dee47ce9aa23eadfb3da9d5effd5612d1ef2e72da7364a13741c202f417ca"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f57ebc3b87bf3b58f5e6cb3a41459be2c36391e"
+git-tree-sha1 = "6c06b43bcbd55457c2ca875d491078ff735427ef"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "a7a74d624e174d489f2019f091050b47048f3f236bfcea11f74135419b64bb4a"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "6cf7f6badf98f0d8881b7b708396e34ab8ad99174e87c42ecc27508928d53488"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "76355c18681478c24bdde2d8f8b39f34641c33dc"
+git-tree-sha1 = "3c150cc9b21dafbc4201203f530e9c188de444f7"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "bec1d6189d7a721cd6616dd8aed683c01e3a9db7feaf0a62669264e49fdd442b"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "c7bfa32d3965a02cf8ce1d476ec529d0d3086f0bc2598b317aabc89079a7552e"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d19725eb8f287e742fe8babc5cac09d67a530d15"
+git-tree-sha1 = "8c236b9f539d720fbd44b31b068ddcf52f185ab6"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "78d340a5f29359b22c9a1c18cd718c9e1891653c64bc17851425ec83ec0abca7"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "979eaa66a96d0f8d97a60b2ac94f8eb986133775e402887738c587bea2144d48"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6fe00571e45f15bd2c158074adc26dd0fa18e2ab"
+git-tree-sha1 = "54e78a0e76748aea26c21f0bf40a31f1c07886bf"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "02673438cdc62024fca9de4ac802f396d5686bdf479aa320b2cd1ff0779e5251"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f71a9fc44812158e0870c6c787e7edb388d477848c5b67697db819449e376198"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37e490f385d433684f4f60b8df120380cb6eb040"
+git-tree-sha1 = "03864f4094585d5e81f3f292287778f236c1390b"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "24e50c6685bae38a49054955e7ee5787123b4884e2f4875840cbc14e07146220"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "b58f5bed1555c06148e1cae54f09daf6925842b31f5742396d22938a98192c36"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cd1cb402ac096f0b6f2c22b6c2b6d0943f45c29"
+git-tree-sha1 = "92063ca94c201d1d224c4723e45fc35139900d5d"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "ca1aca3ed4b25082f0d1fcdc0bf23fa46b2964d120bd97ea4d56b31028ff99c1"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "7f6617731c352b7a172c71f0ad0f45be47615b10d603c9adf06f0c117186b2c7"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "41537870eb8239072ad86162b04eee2cabc34ea7"
+git-tree-sha1 = "48243ee6030bde9b1a69faba5c084ec8018371f5"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "dee2e92d9a2cae8a6f58f416814c85f1ece2e2dfb38c9dfb04627c5c3671a18c"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "616a4ab6b0f7606518dc2e4cd14772b4465956aa464a4c429bdd9bd02040274a"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "30c4b5d2b8c5364b955017b03295351f09bf7965"
+git-tree-sha1 = "7ffe25cb3cec6d2b2e21ae10b45fdec4ed3d2883"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "304f85323c2488c70df4a9d90ad44bd80b9b15093f8b196b35e9668341647847"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "5df5ab50c8a7bf8f2a0f836b3178be2432d25edfd55e7c7bc3c0b3b073ba94be"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "89996996e0ca340ff18d0a306e0593b8389766b7"
+git-tree-sha1 = "9eb23191c0fecf9041d0036a2fecbb8d2ae31f97"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "79586859375ec6b443a72c28dd89e5dab30a4a93b0a7e2721ad134b7b89fe8a7"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "5c7009239e9b939cf9f9e58557ea41175827e04477970d8cd9aa53e048cac4e4"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "aarch64"
-git-tree-sha1 = "104e37e01e14e85ecf341d79b5b86fff01101ce8"
+git-tree-sha1 = "bbeeea05e4a0fa3ed6eda3d664bce52d0fe800d1"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "95ada8f3f5ded57bca3eaf6a30c62fc22ed2a4cf193a6d771cde11bf1c458dc0"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "3d620f2dfd6cc31337cd080bd26a72d8a71cbe06dba016dfaf6e4336be600c1d"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0105005ace1fbcd12af6f86ea9e1a2af395eaea8"
+git-tree-sha1 = "631e3eb98a80f94ac8c95c96ac9d721f3e90bae7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "a25826ab65ee3526ace3a36a4b5adc681f981d71ab4806e500405a6d032a7385"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4a7ab31c3bb971ecc74624ff27d82b7a2dd717f3dc277b40d3f1e4e990e34cde"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36404265dd87789f39c5cdfae2d68088359fa4ab"
+git-tree-sha1 = "8d024dd4e06a5487e51130a27ec94d185b30cc8b"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "254824d1fdc4f92c867f25e80181309f1b41da0ae648fa299d48bf49d77a2545"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "342f1a2d1182dd6180de9951f4c8aed338f73759fe5e82eb340b9af037c74ce0"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6c336ce7bc18556102f6e3ce3f9ddece78dedee"
+git-tree-sha1 = "db300c6a587d61080886a2325f9e6c31de2a5687"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "1271c69f982f956fa3d07ea360e498ce17c1bd968a675102d8aaae8523064ca8"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "91ee637a07e22dc8cf6522713124134f860c927797d262d3b15f0001624dafb0"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4336b9d70803e751d4c1e018c72b48b43ef27cc"
+git-tree-sha1 = "30dfc2f5c79d9e092b18885effd1826e836c5d59"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "16c3c9d81f5eed2e78430bb2cc60edc29dbf61fe18fe13aaac0ef80e987f6677"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "00aefdc857e087a89bc96257dfb51e497ee29d84666a68ba7e2c52b12dc4a96b"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "af469f950c537b25a25aca740cd49ace029b9160"
+git-tree-sha1 = "63d8e07aaadeeddcd73768197ecd4ae966565822"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "4b93d5afa4ced54ddb3ee95a18ab5dc0dbb69f5127e472758469b7bb1ebcd500"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "c96eed186e8c2027c8b1a86ab5078ab79197a44859d10f3ba05361a5f9e6cc9b"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65e37acb0ed6003d12542b496ff2563534cca803"
+git-tree-sha1 = "bc9cde8def3c91a797b09ce541cfadaa4936046a"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "f3e0f2ec4f7b1d246852b377b9b6810c56e2bfddf8061c677d6d28a4046331dd"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "327c1be553249309902230d0c689560ee40cf90c8ab43e2f905a938861672390"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61194f48a367a57868d5273611df15a6994a3612"
+git-tree-sha1 = "5ef0e984051385a693ddf0b258f214364cbeac45"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "32debe10ca618cd88155fd067f4abcbf5ae0ff2bc08b32c046d16454f0741b43"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "8ed8c16de2f430742de5ac51f2dea78ee146b07f4a627d9e9c47e6310678ae5f"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "918d35c34ddfa8da7cb80610563aec339d94216f"
+git-tree-sha1 = "c3486842e12159e4fc8b8cd3368e9ad4e272ecae"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "f06f287bf4f36e9a5014f3cd8557af18b535cbeca8e1cfe38c462e32d476ebc0"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "53dfd1b90adf74b2d863f55265937fd5f682fc3d55510b1f4daa621093ba38ed"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d15baa00f3b1b125ffac567ff29305aba6edfd5e"
+git-tree-sha1 = "531ca6e034615a419188c081a6942666c4abec4d"
 julia_version = "1.13.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "b1137c20583c0bc815698bc4edf1580f8b37fadbb34e2fc0e5fdd19d1dfb4411"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "7b32d0c25fbac7a008b6601200d64cf0cf6b246509f93ab92da0e3f1eee05fa2"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4abd9c6dd07fc0778b182f6b646421f6a55b2305"
+git-tree-sha1 = "8a788a38469b0c0f56d9c29e609cdf08cbee7b1c"
 julia_version = "1.14.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "f45e49a061743afe203174bdeb51922f37a431820b481fafb2f9c9308d9d5887"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "ef8b9f209234c10e4fa1babbf7d67c14657aff13b41b74345cb45169d795a409"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e055753b28cc913adbb255e0f25834c78471d6d"
+git-tree-sha1 = "2fb5f009ab7b71fefe5af5068524d7a990671153"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "0e84456808d0346a2aa5d70ad238e8783c520738935c2724a580e5c62e006165"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "0b91d1aecd81eedde8971c0b61ea5aa24ffd76aa7185331417cacf86e6cf7758"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c471b3d8e852cf4ef0e73d3c8190a77ffa940af"
+git-tree-sha1 = "38ecaac66d0d6ebb97c077de26fd4b4b5db2c41b"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "43d43016894811f44b501f881efc042c11066ff3f5ef68844f472b591b2a7059"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "e635d8f33a0b6fef6ef74a66e42960af1790c2c1f3451b386a302a1ad8e67c94"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "118a9631a2e97afd0d2767958ecf816d0da61fd1"
+git-tree-sha1 = "f6a171723c3ba076eef76e110f3244ca58a69728"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "40b2e35c7e3ae5fdbcdf89a2980a310f5003bbe1d7d83d3b55fc37ad9f95329d"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "cf93540225a562357ab6169b95d352a6965816710d8a280c14201a30d260994b"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d288dc3cea6d86cbe4a2ffc8140d213bdf26d802"
+git-tree-sha1 = "e0822f9334b1d84a260b67e1822b12df4b1bb1b1"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "962ddd4a2c405f53cd2972acf73b996116780b64744753153058bca26862c3dd"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "e1f3066656eea1e0ef258b4e34daffe67b99e35e77b5dbfae331e3b3f1b31713"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54cb179186e6145b8307920811e0a1b14063cb28"
+git-tree-sha1 = "2cee6d1edc79a96ff1577330a9d6e99270dfab82"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "aa1464579f9217de05ee140496ad4c24b6602f65599a7209e2eae7783638a323"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "e04628da8b5c38308b4aa3726b90cf25e9c47a227db33cbc31cc362e19e4069d"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b3438b6afa447e7cdde9f8bd17b688524a4f9fb"
+git-tree-sha1 = "3963ca22a5399dd74fe6748a188be2ec9462a7ae"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "bd58336867be17f1ca54d5b4598b3f47e16298657a9b5b6e0ce6c09420f811ec"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "ef2a47476e18314ec16e1f8c98d04618e215d848a33690593cd11e79468a8aa3"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06a1474aba9f44b24866e4a775ece934643a51d7"
+git-tree-sha1 = "3b5799bb6287b559b39a0fe4a29869bad1f85ec6"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "24880e7b29ee9d165f5515a4225ad2e0a3116b5a79f5ccaace7a79b5fa6f7d26"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "2a5d076083bd2c1b6684b180f534251e19e86aea967d446849a4f70ba6db9672"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "99e2c0d502ac32f0ce0464f36fd7b0c2c4be206c"
+git-tree-sha1 = "2dab41fa0914841ebad3056b8c324ded809a1abd"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "e142391548282df15b7405b74d74f27630d9381911a857c37aadc1fe49bc5ff4"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "9a0b08abcff9b1b777dc48b364362ef74e68433e10fa34d9d129034873bae8e0"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "61f30ae12c9388942864728e6b1dfb6cd025fe12"
+git-tree-sha1 = "6f822887210c832e9f7e449ba1953ff4114ebf8a"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "a50eaf0bea06ae4078e61eeab1aa9cbc1aa050c2d6b9a91ed4919e7200670b43"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "aa8aaa5c0477efa5714d3a71bdaccfd6888391aecdd40053b36352007142726a"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "914cce381ef4a5f8d13b5d0cd05a8597034e8094"
+git-tree-sha1 = "ef860c778ffdeb9d0852da97aa70ebb7961aadac"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "0dec0b6a3a26e99b17b1cbf0ed1e8f5a920cc6b7ca72fb2d57def18159186a66"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "5fb1c7690f876d55825f5cd8e7185010a057cb55def6d6d3128c70f6a1872bfe"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "eb0b5de18b937f5a4f91bdb4899f3f5374dddb39"
+git-tree-sha1 = "bb273a67a442f9e5cf2e3f41ae48716886b9f488"
 julia_version = "1.13.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "aaf9302d477015cb76e4f97543662a23fbd1eff5a2608a8b71dd904891ebf84d"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "3c4cbe28cb5efa316b515debb877a953a17c3f8419a62d3ec8a7be6e6c8b8620"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "e2a1b3c8aa7435bc56e6c69380563193559ff495"
+git-tree-sha1 = "661c4924b584a1553e0af46ef641df5c60f307e9"
 julia_version = "1.14.0"
 os = "macos"
 
     [[Musica.download]]
-    sha256 = "6eb77830b0c43c744be432b2a15ae4b8acd827b3fc7b4356b2d6687a0d5a2048"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "d7b527918e696588a64c8c06c6f6562313e6fbf6902a35054a29c790c1820e53"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c5f8a611aa1b7a1d9a9185cb044af7a9d9f0656"
+git-tree-sha1 = "6e9dcf4dffa3cadc78b2395936b46c90e01f1343"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "a3c03fe8abc7ed53ee6102c4d0bd6c43f5e3e99d211f607f9505518f0c26bc7c"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "e94be052f05f0792dbed2dd2680d7b72eeb65e0a044b6ba60f4245a03054ab78"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f047febef735f8f1de8eff5788328745fc99946b"
+git-tree-sha1 = "3fa680c40f8e946eb8e0f98fb0154eeaa07a50d7"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "eadfb317aa83e3f9155f2a6b0ad4049b92d1cb7e342cf06ee2745616321418ab"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "23871edb113f3d4ef38638730ff3e14d15416792efefa9a567cb01c0e81b4b2c"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18f83ddfb0dccb5c2d8dff64f2815a5bf31683de"
+git-tree-sha1 = "7631a78ac98415a93ca266e3204ca3e06e966453"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "c0d8701a29031d814a52813a45296cab0804ee9299309eaede96d0d8848e190e"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "bffa6b10f00bb40b41a02e164315387f0914eaff83e3de54e8f8151a453d638b"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b21267a9267af75cae5ace69f973f5f88e26a9ba"
+git-tree-sha1 = "815387bf53ffd4795ca64407dc58c75aeb5a600e"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "32063a7befd8561e7389b86696127533305e86e99954f68f3e5c055378d5b0eb"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "904a50f3e8d5b35d945c7534219b5e0d8f0a34d6f322f7ec750dbc250a2de017"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9589bab433aea6a6a1e281470a6e64df31590d5"
+git-tree-sha1 = "a626b05844d573c55e8c385231f59aa923bfdb01"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "746422e35d08e54eccca01040b69de1af31b558ba97bda4f73d6c54c96335d24"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "70702a7389dd1a446e5de202929e3b09e54375d0712693d6d7127a19d728bf48"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffa3c29275afb02620bc94eb4825537e86ec2be4"
+git-tree-sha1 = "84d72c2fc30c3b04419c4e253615aca569947048"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "5162ff660b1e94058acb8a8698b0390916761a94677b61a4eef0e7792fc871d6"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bf9a7cf0dc2e06bf10cb25e35f0e62a05c2dcf3d97c76b62853192defa8a5a3e"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ee39dffad17d03bd9cdf3a5c75b4ed96f1f93f9"
+git-tree-sha1 = "3e050be54123763ba00ecde221e7c724f195c042"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "df90dc2f5be3abafc4a8e3f799b49f4a31623d72f2b8ce13141401b174f636ce"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "584bb482a380613f31c56af309d904489a5154e07e4418b67f9d160147b77d6a"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c74cbcb5e5cef1c740cd4060b73ee344268939af"
+git-tree-sha1 = "8f48eb875d13ffc662032700d439a56a279d2343"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "97a74ac6cea503110857135355bfa7489b584442ff0ea5da3c092b9cce08656a"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "d02a33dc465d8e80c0986e8fcb2d59237e65b3bd3c7aa92642080b7f926020ae"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70266d67ee2d082a3a124e9b057d3ec7c48180a3"
+git-tree-sha1 = "a21036930623c8bc55f4a4f8bbc806eba37e05eb"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "7a099a6def0bf129632684d7b0404d2163e556f53a8113bfabce602957b58492"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "fc1fbaa7405b28aa142886fe14cf6ecf38af9dd37d552d20af674f0da4950a04"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5953f389f4a604e6a0bdc9261a21be6fd0a477ed"
+git-tree-sha1 = "95d2014cfdebba5a8bdfd5af58fad23faac03786"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[Musica.download]]
-    sha256 = "c5854e4bb1a36dd22314656b8662185ae516c69918fe50feee5c7368efac43b2"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "d5db0035728a9528ec49c3b3d7c1a3aa7c0c6ca93a350fc7509aecbf0ed6f92c"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "caa025382e99a10f558976d69aa0baf43db84c8f"
+git-tree-sha1 = "1538fbf895cdb01a97466f601f059f4eeb1fcd2f"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "f436c41be796f9a8e0130e28fa8e617a667d2f6496f7580814e95f94852f3d34"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "c67230c52662008b01bcb2ca0bc6e7dd4fe58da4cbd7a1cb85798983c893dd43"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "8f8542632928dba71946808224e4d9330b72995e"
+git-tree-sha1 = "86a3abd619286f3f40a0a1600d0dda8d6a63253f"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "397a1a673dc3134964517c88a7e5059f485d82b4e97a9a1b42d9b4035a12f6d1"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "e638c8d29a1b5efe8f719155260f832c23e0cc34940896dd153ae40aee88abb9"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "2d2779736b5d3b1b3c8e18cb95e01539d44e4f89"
+git-tree-sha1 = "46b2ee1ca9c92b7def223945c9a455b7e2ca3e2a"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "5213155eb2058435966a9bebe5227d401d8c24ab657bc828dca6f2f509f340ed"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "b71de8b27675a6e8f648302c4bad5231d7bb54badcab6d99a8fa34612c912421"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "d870e459de1ac5e8c89dd0183da133293bffcf82"
+git-tree-sha1 = "3fb70912e871d12231cd9a7f9ed42c953b5bc6ab"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "7e862e38b4e432a013ab6582f97691155ce96d7d52f88c95c107eddf5e79f090"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "6ca679b37ef0b62dc83d7d34db5d0500cf5247b3cde8e80b7f3dc7a6540a7dc4"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
-git-tree-sha1 = "8c426af2c1a0419e52a517bf3b10a8fb99519bba"
+git-tree-sha1 = "c8a767c20d89f286d475137b4ef02ef07c924ea5"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[Musica.download]]
-    sha256 = "d8a461bdba6e723f381004b5c2c661e47ee5d99ecc14b067cda9f21c423a7bfe"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "1c4ed2d7017f8eaea48478910d95781b605544942b5334431788b24fb07f8311"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bedf356d54c6cec6f02a0622e999381e62564dc7"
+git-tree-sha1 = "d026eea40c35deb7474ca28fd5d699b2d412dfe1"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "f628bb39e2b5799004ceb09a8127e7f2bc318ae0e7f7a9ef5f95586ec963813c"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "68bf14ca4d365dab66a821e1597314f991a1bfab7462116b668de94082842802"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb7ff62438a9daf5b816c7056dbbd5990f9a51b9"
+git-tree-sha1 = "5c9d4f83aa87dcedd8c88b126c9e33daf29441bb"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "87e9ab03167c3764b74829dd4bc71916eaa2704a3e2791486736b2aedaf61568"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "b51f9d14d60046f5b89743e7fd8a97990d08c4688ff56c1b8736169988962e3c"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3da9952d5da27ffd59661542ef6d65765e4f9faf"
+git-tree-sha1 = "57d959ab27004fa9e709efd5770dae210bb3b8a6"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "e3c6e9779a2f5865a63b6d814975a8b69f56b8e52ad71dd4a0a82b999f6b2391"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "c9547f0a14893e141663c862a7516b0b2cfd053dc47649be5472b45a3e743dc3"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9a12f651b8743b91d9f4841def3a75ccaf216ad3"
+git-tree-sha1 = "9507ac45f17d7a15a66f1e2750f3c2594981b695"
 julia_version = "1.13.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "d857259db91117a604d41b8ecbe0b7b809cb7e6d708e049f2c4e02a5f93e2461"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "c82b9e660091a3b37646f926a6c30733bbf4b42dd09e7b30dc3c8e9bbc700f9a"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[Musica]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b1c1d2610384ad2171e83c0d775ce46b3f8b939"
+git-tree-sha1 = "1aef4bd76a279221384e39131f066e2353548de3"
 julia_version = "1.14.0"
 os = "windows"
 
     [[Musica.download]]
-    sha256 = "d6d28f26cc49d7a5c2b404ee704fd58cdde8b4f6bf66c1e98963575904128cda"
-    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.15.0+0/Musica.v0.15.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "79dde220825fcf88a73b0c793bd6c33a2c476f7db29979b8cb1c2dda1c7c5804"
+    url = "https://github.com/JuliaBinaryWrappers/Musica_jll.jl/releases/download/Musica-v0.16.0+0/Musica.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
